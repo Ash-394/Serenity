@@ -1,7 +1,5 @@
 # Serenity
-In this age of information, where words appear without discretion, the probability of encountering one’s own triggers and phobias has multiplied. To make this online sphere a safe space for everyone, it is of utmost importance that we create a mechanism by which potentially offensive and disturbing content is filtered without curbing freedom of speech. Supposedly harmless words can trigger panic attacks and anxiety attacks in people when they are related to personal traumas and phobias. Serenity provides its users an opportunity to customise the trigger words. This is useful since trauma and life experience varies from people to people. It also supports free speech as the content as a whole is not censored. Our project aims at reducing the anxiety and fear a majority of people with common or uncommon trigger words face when coming across new content or source materials. Serenity is a trustworthy companion for all its users and is our humble endeavour to make life a little bit easier for our struggling counterparts.
-
-The UN development goals tackled were 
+Serenity is a web application created by the students of Government Engineering College, Thrissur that aims to make the online world a safe space for everyone. It reduces anxiety and panic attacks by blurring  content containing user inputted trigger words. The UN development goals tackled were 
 Goal 3: Good Health and Well-Being  
 Goal 10: Reduced Inequality.
 
@@ -15,5 +13,8 @@ The languages used are dart, html, Javascript. Different chrome APIs such as Tab
 - Run the following command to download the project dependencies :
     flutter pub get
 - Run main.dart without debugging
+
+# Chrome extension
+https://github.com/autumntales/Serenity
 
 
