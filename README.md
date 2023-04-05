@@ -10,4 +10,10 @@ We mainly used Flutter to build our project. The Web app is meant to give an ins
 The languages used are dart, html, Javascript. Different chrome APIs such as Tabs, Storage etc. were used in the case of extension.
 
 # How to run
+Clone the repository
+Install Flutter SDK  https://flutter.dev/docs/get-started/install
+Run the following command to download the project dependencies :
+flutter pub get
+Run main.dart without debugging
+
 
